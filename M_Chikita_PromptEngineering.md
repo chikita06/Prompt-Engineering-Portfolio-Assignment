@@ -1,6 +1,6 @@
 # Prompt Engineering Portfolio
 Name: M CHIKITA
-Date: JUNE 6TH 2026
+Date: May 31st 2026
 LLM Used: Google Gemini 1.5 Pro
 
 ## Part 1: Prompt Design & Iteration
